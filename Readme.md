@@ -5,5 +5,5 @@ Google Colab Script for running python code:
 Request API Key:  
 [Request API Key](https://sec-api.io/)
 
-Details about the Python Package:
+Details about the Python Package:  
 [SEC Python package information](https://pypi.org/project/sec-api)
